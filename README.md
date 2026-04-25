@@ -37,3 +37,5 @@ Python, Pandas, Matplotlib, Seaborn, Google Colab
 
 ### Age vs Fare
 <img width="571" height="455" alt="download" src="https://github.com/user-attachments/assets/9b0fefb5-530a-4a5e-840c-ef884cb2521e" />
+
+
